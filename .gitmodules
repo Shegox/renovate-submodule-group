@@ -1,0 +1,3 @@
+[submodule "renovatebot"]
+	path = renovatebot
+	url = https://github.com/renovatebot/renovate.git
