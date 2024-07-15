@@ -1,5 +1,6 @@
 {
-    "extends": [
-        "group:all"
-    ]
+  "extends": ["group:all"],
+  "git-submodules": {
+    "enabled": true
+  }
 }
